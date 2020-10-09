@@ -1,5 +1,6 @@
 # A Byte-Sized Package for your Units of Information Conversion
 [![Tests](https://github.com/Anteris-Dev/units-of-information-helper/workflows/Test/badge.svg)](https://github.com/Anteris-Dev/units-of-information-helper/actions?query=workflow%3ATest)
+[![Check & fix styling](https://github.com/Anteris-Dev/units-of-information-helper/workflows/Check%20&%20fix%20styling/badge.svg)](https://github.com/Anteris-Dev/units-of-information-helper/actions?query=workflow%3A%22Check+%26+fix+styling%22)
 
 Okay, we lied... it's 14.8 Megabytes, but it's sooo worth it.
 
